@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PollyMongo/PollyMongo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PollyMongo.Tests/PollyMongo.Tests.csproj" />
+  </Folder>
+</Solution>
