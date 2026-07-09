@@ -3,6 +3,7 @@
 [![NuGet](https://img.shields.io/nuget/v/PollyMongo.svg)](https://www.nuget.org/packages/PollyMongo)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/PollyMongo.svg)](https://www.nuget.org/packages/PollyMongo)
 [![CI](https://github.com/Swevo/PollyMongo/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/PollyMongo/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Polly v8 resilience pipelines for MongoDB.Driver** — wrap `Find`, `InsertOne`, `UpdateOne`, `DeleteOne`, and other `IMongoCollection<T>` calls with retry, timeout, circuit-breaker, and more using a single `ResilientMongoCollection<T>` decorator. Zero changes to your queries.
 
